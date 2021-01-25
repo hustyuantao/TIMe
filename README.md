@@ -4,7 +4,7 @@ Code for DASFAA2021-Topological Interpretable Multi-Scale Sequential Recommendat
 
 We implement TIMe  based on 
 
-[NeuRec]: https://github.com/wubinzzu/NeuRec	"NeuRec"
+[NeuRec](https://github.com/wubinzzu/NeuRec)
 
 Firstly, download this code and unpack the downloaded source to a suitable location.
 
